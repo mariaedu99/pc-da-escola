@@ -10,7 +10,7 @@ real quant = 0.0, total = 0.0
 
     inteiro opcao
 
-          escreva("Lanconhete da Maria - versao1")
+          escreva("Lanconhete da Maria - versao2")
 
     faca
 
